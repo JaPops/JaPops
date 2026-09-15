@@ -50,8 +50,8 @@ A narrative 2D educational game made for A-klinikka. The player follows Luukas t
 
 This project combined my writing and programming work: I could follow a conversation from the script to its implementation in the game.
 
-<img width="902" height="568" alt="a92952d9-64e5-4af6-9206-a32ed5c886eb" src="https://github.com/user-attachments/assets/fc0adce6-78e6-4078-8036-d29f9e4193d0" /> <img width="584" height="541" alt="226adb87-bd41-4c91-9dd0-d47e875a4112" src="https://github.com/user-attachments/assets/d953fe52-6f10-4620-8a1d-b078489b1ea3" />
-
+<img width="400" alt="Vape or Nope dialogue with Joonas" src="https://github.com/user-attachments/assets/fc0adce6-78e6-4078-8036-d29f9e4193d0" />
+<img width="400" alt="Vape or Nope phone conversation" src="https://github.com/user-attachments/assets/d953fe52-6f10-4620-8a1d-b078489b1ea3" />
 
 
 [Play the browser test version](https://teafeaster.itch.io/a-klinikka-testi)
