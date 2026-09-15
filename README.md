@@ -16,6 +16,9 @@ During my studies, I've worked on four team projects. I enjoy building gameplay 
 
 A 3D sandbox game where a raccoon with magical powers explores a small town, moves objects and completes quests. Inspired by Goat Simulator and Untitled Goose Game.
 
+<img width="480" height="320" alt="mystic-raccoon-gameplay" src="https://github.com/user-attachments/assets/dfb430ae-7f7d-48eb-bc5f-625b01aef4f9" />
+
+
 **Team:** 6 people  
 **Development time:** About 4 months  
 **Status:** Playable Windows build, not publicly released
@@ -89,7 +92,8 @@ A Geometry Dash-inspired 2D platformer where the player jumps over obstacles, co
 - Worked on audio functionality and menus.
 - Helped with programming wherever the team needed support.
 
-The Realmshift teleportation code was made by another team member.
+<img width="480" height="270" alt="realms-gameplay" src="https://github.com/user-attachments/assets/4182a361-d561-488e-8658-42f04a860c5d" />
+
 
 ---
 
